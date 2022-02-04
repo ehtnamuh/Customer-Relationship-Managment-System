@@ -1,7 +1,7 @@
 # Customer-Relationship-Managment-System
 A simple customer relational management system made with html, php and sql.
 
-Markup: ###Features:###
+Markup: ### Features: ###
 1. Customer Management
   a. Lead Generation
   b. Client Management
