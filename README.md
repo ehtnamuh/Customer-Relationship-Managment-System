@@ -26,4 +26,6 @@ A simple customer relational management system made with html, php and sql.
     5. Customer reports
     6. Manager's own Personal Account Control
 
-
+### Requirements ###
+1. XAMMP 
+2. PHP
